@@ -52,5 +52,6 @@ The first part is my query, and the second is a part of the output. This query r
 ## Summary
 
 Through this project, I was able to apply SQL queries in order to get specific information on login attempts and employee machines through the use of two different tables: log\_in\_attempts and employees. I used various operators, namely the AND, OR, and NOT operators to filter for the specific information needed for each task. I also made use of the LIKE operator along with the percent symbol (%) in order to filter for patterns.  
+<img src="images/Failed Logins Query.png" width="600">
 
 
