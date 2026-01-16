@@ -1,4 +1,6 @@
 # Cybersecurity Portfolio
+Author: José Varela
+Email: varelaivanjose@gmail.com
 
 ## Overview
 
